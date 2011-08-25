@@ -1,0 +1,4 @@
+Detector versions
+--------------------------------
+Frontal ... wb2.6m.1
+Profile ... wb2.6c.13.2000

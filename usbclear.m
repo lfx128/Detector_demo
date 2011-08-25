@@ -1,0 +1,2 @@
+delete(vid);
+clear vid;
